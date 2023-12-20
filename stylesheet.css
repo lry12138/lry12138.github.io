@@ -1,0 +1,26 @@
+body{
+    background: #3d406f;
+    color: #eaeaea;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.content{
+    display: block;
+    height:100%;
+    width:100%;
+    padding: 60px;
+    padding-left: 120px;
+    padding-right: 120px;}
+
+.dropdown-toggle{
+    color: white;
+}
+
+h1{
+    font-size: 50px;
+    border-bottom: 2px solid #c8c9bc;
+}
+ul{
+    align-self: center;
+}
